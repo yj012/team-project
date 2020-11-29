@@ -1,1 +1,1 @@
-https://github.com/solbaram217/team_project
+https://github.com/solbaram217/team-project
