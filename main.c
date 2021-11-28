@@ -1,1 +1,1 @@
-https://github.com/codename-602/team-project
+'20180335 ±èÇö¼® test' 
