@@ -1,1 +1,1 @@
-https://github.com/JHSic/team-project
+https://github.com/JHSic/team-project.git
